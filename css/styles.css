@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+  line-height: 1.5;
+  font-weight: 900;
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;;
+}
+
+.nav-link {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#title {
+  background-color: #6A994E;
+}
+
+#testimonials {
+  background-color: #6A994E;
+}
+
+#pricing {
+  background-color: #6A994E;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
