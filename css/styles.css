@@ -9,10 +9,25 @@ h1 {
   line-height: 1.5;
   font-weight: 900;
   padding: 3% 15%;
+  text-align: left;
+}
+
+h3 {
+  padding: 3% 15%;
+}
+
+.phone-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.navbar {
+  padding-bottom: 4rem;
 }
 
 .navbar-brand {
-  font-family: 'Ubuntu', sans-serif;;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
 }
 
 .nav-link {
@@ -33,4 +48,16 @@ h1 {
 
 .container-fluid {
   padding: 3% 15%;
+}
+
+.pebbles-image {
+  border-radius: 100%;
+  padding: 2%;
+  height: 200px;
+  width: 200px;
+}
+
+.press-image {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
